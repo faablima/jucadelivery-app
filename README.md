@@ -1,6 +1,6 @@
 The Project below is a multi-tenant web delivery application.
 
-![image](https://user-images.githubusercontent.com/24557048/171203138-7790ad3a-879d-41da-9443-773c1bc5b682.png)
+![image](https://user-images.githubusercontent.com/24557048/171203497-ef7fb6f9-9524-496c-8fd2-0111dfe9d254.png)
 
 ## Getting Started
 
